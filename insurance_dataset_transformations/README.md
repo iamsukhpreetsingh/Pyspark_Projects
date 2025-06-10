@@ -41,7 +41,7 @@ A comprehensive PySpark project for cleaning and transforming insurance policy d
 - **Data Type Validation**: Ensure proper data types for numerical fields
 - **Outlier Handling**: Filter out negative policy amounts
 ---
-## Transformed Data
+## Raw Untransformed Data
 
 ![raw_dataset Screenshot](raw_dataset.png)
 
